@@ -1,0 +1,3 @@
+Created because subclasses don't merge inherited modules from parent classes.
+
+For creating nested "processing modules".  See tests for examples.
